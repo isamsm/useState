@@ -1,0 +1,16 @@
+body {
+    background-color:lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: royalblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+button {
+    background-color: lightblue;
+    border: 1px solid royalblue;
+    border-radius: 1px;
+    color: royalblue;
+    font-weight: 600;
+}
