@@ -1,4 +1,4 @@
-<h1 align=center> UseState </h1>
+<h1 align=center> useState </h1>
 
 <h3 align=center> Fiz esse projeto como uma forma de treinar o hook UseState do React, biblioteca qual estou aprendendo atualmente  </h3>
   
