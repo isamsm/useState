@@ -1,6 +1,19 @@
-<h1> useState </h1>
+# useState 
 
-<h3> Fiz esse projeto como uma forma de treinar o hook UseState do React, biblioteca qual estou aprendendo atualmente  </h3>
+## Sobre
 
-https://user-images.githubusercontent.com/80493617/212066532-00e50794-1515-49c6-8f77-f22ac5a1a6ae.mp4
+### Fiz esse projeto como uma forma de treinar o hook UseState do React, biblioteca qual estou aprendendo atualmente.
 
+## Como usar
+
+### 1. Clonar o projeto em sua máquina:
+
+```
+git clone https://github.com/isamsm/useState
+```
+
+### 2. Acessar o ambiente local:
+
+localhost:3000 no seu navegador.
+
+E pronto, dessa forma você já terá o projeto rodando em sua máquina!
